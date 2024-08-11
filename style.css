@@ -1,0 +1,20 @@
+#userInput {
+    border: 2px solid blue;
+    border-radius: 4px;
+}
+
+#AddButton {
+    background-color: black;
+    color: white;
+}
+
+#notesList li {
+    background-color: white;
+    border: 1px solid lightgray;
+}
+
+#notesList li button {
+    background-color: red;
+    color: white;
+}
+
